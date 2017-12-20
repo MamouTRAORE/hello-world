@@ -1,0 +1,58 @@
+.blue {
+    color: navy;
+   }
+.red {
+    color: firebrick;
+     }
+.yellow {
+    color: gold;
+     }
+.green {
+    color: forestgreen;
+     }
+.title {
+       font-family: georgia;
+       font-size: 96px;
+       text-align: center;  
+       }
+.search {
+         border: 2px solid aliceblue;
+         border-radius: 5px;
+         font-family: georgia;
+         font-size:  25px;
+         width: 50%;
+         text-align: center;
+         color: skyblue;
+         padding: 10px;
+        }
+.country {
+         color: lightblue;
+         font-family: arial;
+         text-align: center;
+         }
+h5       {
+         font-family: cursive;
+         color: firebrick;
+         font-size: 15px;
+         }
+h2       {
+          text-align: center;   
+         } 
+h4     {
+        text-align: right;
+       }    
+h3     {
+         text-align: center;
+         color: skyblue;
+         font-family: arial;
+         font-family: cursive;
+         }
+.header  {
+         padding-left: 150px;
+         }
+.content  {
+         padding-left: 80px;
+         }
+.app  {
+         text-align: center;
+         }
